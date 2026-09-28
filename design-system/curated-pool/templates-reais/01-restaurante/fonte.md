@@ -4,7 +4,7 @@ Levantamento em 2026-09-28, refeito com os critérios de classificação por se�
 
 **Como as seções foram contadas:** pelo HTML dos demos, olhando os nomes das camadas (Framer) e as classes de seção (Webflow). É uma contagem aproximada, não visual. Onde a página carrega conteúdo só depois do JavaScript, a contagem sai menor que a real (Qitchen, Pastora). Layout de 2 colunas, 1 CTA por seção, motion e performance **não foram verificados**: o Chromium do container não confia no certificado do proxy, então não abri os sites ao vivo.
 
-## SELEÇÃO PROPOSTA (aguardando aprovação do Lyon)
+## SELEÇÃO APROVADA (Lyon, 2026-09-28)
 
 | Tier | Template | Fonte | Seções (aprox.) | Link | Demo |
 |---|---|---|---|---|---|
@@ -79,7 +79,7 @@ Varri os 687 temas. Os de restaurante e café são todos **pagos** (Tasteful $99
 
 ## Pendências
 
-- Aprovação do Lyon da seleção Ouro, Prata e Bronze.
+- Seleção Ouro, Prata e Bronze aprovada pelo Lyon.
 - Liberar o Awwwards na rede do ambiente.
 - Verificar 2 colunas, 1 CTA, motion e performance nos 3 escolhidos, com navegador ou com o Lyon abrindo os demos.
 - Nenhum candidato de Prata tem FAQ. Para cumprir o seu Prata, o FAQ teria de ser adicionado na hora de construir.
